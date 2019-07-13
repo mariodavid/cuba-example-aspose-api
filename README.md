@@ -35,9 +35,11 @@ In this example it is shown on how to interact with the Aspose Cloud offering vi
 
 ### Results
 
-The results can be found in the [example-files]() directory. The results are almost 100% identical (which really supriesed me).
+The results can be found in the [example-files](https://github.com/mariodavid/cuba-example-aspose-api/tree/master/example-files) directory. The results are almost 100% identical (which really supriesed me).
 I intentionally took a lot of examples with complex layouts & images in place.
 
 
+
+![Overview](https://github.com/mariodavid/cuba-example-aspose-api/blob/master/img/overview.gif)
 
 
