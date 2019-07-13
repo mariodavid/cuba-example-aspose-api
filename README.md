@@ -38,8 +38,14 @@ In this example it is shown on how to interact with the Aspose Cloud offering vi
 The results can be found in the [example-files](https://github.com/mariodavid/cuba-example-aspose-api/tree/master/example-files) directory. The results are almost 100% identical (which really supriesed me).
 I intentionally took a lot of examples with complex layouts & images in place.
 
-
+#### Application Overview
 
 ![Overview](https://github.com/mariodavid/cuba-example-aspose-api/blob/master/img/overview.gif)
 
 
+#### Comparing Results
+
+![comparison 1](https://github.com/mariodavid/cuba-example-aspose-api/blob/master/img/comparison-1.png)
+![comparison 2](https://github.com/mariodavid/cuba-example-aspose-api/blob/master/img/comparison-2.png)
+![comparison 3](https://github.com/mariodavid/cuba-example-aspose-api/blob/master/img/comparison-3.png)
+![comparison 4](https://github.com/mariodavid/cuba-example-aspose-api/blob/master/img/comparison-4.png)
