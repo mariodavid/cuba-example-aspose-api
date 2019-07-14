@@ -8,7 +8,7 @@ word document (docx) via its cloud API.
 Basically the accuracy of the result. Dealing with images, tables layers, columns, shapes etc. oftentimes leads
 to inaccurate results in the target PDF file depending on what technology is used for doing the conversion.
 
-### CUBA Reports require a OpenOffice server
+### CUBA Reports requires an OpenOffice server
 
 The reports engine from CUBA normally solves this inaccuracy problem by using an external OpenOffice server, that is
 doing the transformation. The accuracy is quite good there, much better as just using alternatives like docx4j directly.
